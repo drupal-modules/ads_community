@@ -1,4 +1,4 @@
-ads_community
-=============
+ads_animals
+===========
 
-Provides common Community features for ADS Drupal distribution.
+Provides common Animal features for ADS Drupal distribution.
