@@ -1,4 +1,9 @@
-ads_animals
+Ads Community
 ===========
 
-Provides common Animal features for ADS Drupal distribution.
+Provides common Ads Community features for ADS Drupal distribution.
+
+Build status
+------------
+ADS build status:
+[![ADS Build](https://travis-ci.org/mycognitive/ads_community.png "ADS Build")](https://travis-ci.org/mycognitive/ads_community)
